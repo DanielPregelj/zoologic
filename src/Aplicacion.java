@@ -2,6 +2,10 @@ public class Aplicacion {
 
 
     public static void main (String[] args) {
+
+
+
+
         Perro[] perros = new Perro[4];
         perros[1] = new Perro("marron", 40);
         perros[2] = new Perro();
